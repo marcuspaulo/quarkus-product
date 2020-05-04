@@ -1,4 +1,4 @@
-package br.com.mp.produc.api;
+package br.com.mp.product.api;
 
 import io.quarkus.test.junit.NativeImageTest;
 
