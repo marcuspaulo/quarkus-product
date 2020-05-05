@@ -7,13 +7,12 @@
 <p align="center">
   <a href="https://quarkus.io">
   </a>
-  <h3 align="center">Quarkus IO</h3>
 </p>
 
 <h1 align="center">
    <img alt="Listar Produtos" title="Listar Produtos" src="./assets/quarkus-logo.png" width="600px" />
 </h1>
---
+
 ## Listar Produtos (API)
 <h1 align="center">
     <img alt="Listar Produtos" title="Listar Produtos" src="./assets/listar-produtos.png" width="600px" />
