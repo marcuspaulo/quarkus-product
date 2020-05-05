@@ -12,12 +12,30 @@
 
 # API REST - Postmam
 
+<h1 align="center">
+    <img alt="Listar Produtos" title="Listar Produtos" src="./assets/listar-produtos.png" width="250px" />
+</h1>
+--
+
+<h1 align="center">
+    <img alt="Cadastrar Produto" title="Cadastrar Produto" src="./assets/cadastrar-produto.png.png" width="250px" />
+</h1>
 ![Listar Produtos](/assets/listar-produtos.png)
 
 ![Cadastrar produto](/assets/cadastrar-produto.png)
 
 
 ![Lista de Repositórios](/assets/quarkus-logo.png)
+
+## Listar Produtos (API)
+<h1 align="center">
+    <img alt="Listar Produtos" title="Listar Produtos" src="./assets/listar-produtos.png" width="600px" />
+</h1>
+
+## Cadastrar Produto (API)
+<h1 align="center">
+    <img alt="Cadastrar Produto" title="Cadastrar Produto" src="./assets/cadastrar-produto.png" width="600px" />
+</h1>
 
 ## Link para os Artigos
 - [Linkedin Pulse](https://????/
@@ -211,14 +229,18 @@ Fique a vontade para contribuir com o projeto.
 5. Faça o Push da Branch (`git push origin feature/newFeature`)
 6. Abra um Pull Request
 
-<!-- LICENSE -->
+-- English
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
 
-## Licença
+After merging your receipt request to done, you can delete a branch from yours.
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+## :memo: License
 
-<!-- CONTACT -->
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
-## Contato
+---
 
-Marcus Paulo - [Github](https://github.com/marcuspaulo)
+Made with ♥ by Marcus Paulo :wave: [Get in touch!](https://www.linkedin.com/in/marcuspaulo/)
