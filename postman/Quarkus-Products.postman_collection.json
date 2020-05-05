@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"name\": \"TV 56 polegadas 4K HDR\",\n\t\"brand\": \"TV Nacional\",\n\t\"modelYear\": \"\",\n\t\"price\": 3899.00\n}",
+					"raw": "{\n\t\"name\": \"Video game PRO\",\n\t\"brand\": \"Empresa Japonesa\",\n\t\"modelYear\": \"2019-08-01\",\n\t\"price\": 3546.99\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -86,7 +86,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/products/1",
+					"raw": "http://localhost:8080/products/6",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -94,7 +94,7 @@
 					"port": "8080",
 					"path": [
 						"products",
-						"1"
+						"6"
 					]
 				}
 			},
