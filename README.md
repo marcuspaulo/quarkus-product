@@ -10,23 +10,10 @@
   <h3 align="center">Quarkus IO</h3>
 </p>
 
-# API REST - Postmam
-
 <h1 align="center">
-    <img alt="Listar Produtos" title="Listar Produtos" src="./assets/listar-produtos.png" width="250px" />
+   <img alt="Listar Produtos" title="Listar Produtos" src="./assets/quarkus-logo.png" width="600px" />
 </h1>
 --
-
-<h1 align="center">
-    <img alt="Cadastrar Produto" title="Cadastrar Produto" src="./assets/cadastrar-produto.png.png" width="250px" />
-</h1>
-![Listar Produtos](/assets/listar-produtos.png)
-
-![Cadastrar produto](/assets/cadastrar-produto.png)
-
-
-![Lista de Repositórios](/assets/quarkus-logo.png)
-
 ## Listar Produtos (API)
 <h1 align="center">
     <img alt="Listar Produtos" title="Listar Produtos" src="./assets/listar-produtos.png" width="600px" />
