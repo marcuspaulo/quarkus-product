@@ -12,7 +12,7 @@
 
 # API REST - Postmam
 
-![Listando Produtos](/assets/listar-produto.png)
+![Listar Produtos](/assets/listar-produtos.png)
 
 ![Cadastrar produto](/assets/cadastrar-produto.png)
 
