@@ -9,6 +9,11 @@
   </a>
 </p>
 
+## Link para os Artigos
+- [Linkedin Pulse](https://www.linkedin.com/pulse/tutorial-quarkus-do-zero-at%25C3%25A9-o-deploy-heroku-java-cdi-da-silva-melo )
+
+- [Medium](https://medium.com/@marcus.paulo/tutorial-quarkus-do-zero-at%C3%A9-o-deploy-no-heroku-utilizando-quarkus-java-rest-cdi-panache-8d702caf451f?sk=e6566ef8cf92e4a717054da4de4bd2fb)
+
 <h1 align="center">
    <img alt="Listar Produtos" title="Listar Produtos" src="./assets/quarkus-logo.png" width="600px" />
 </h1>
@@ -22,11 +27,6 @@
 <h1 align="center">
     <img alt="Cadastrar Produto" title="Cadastrar Produto" src="./assets/cadastrar-produto.png" width="600px" />
 </h1>
-
-## Link para os Artigos
-- [Linkedin Pulse](https://????/
-
-- [Medium](https://????
 
 <!-- TABLE OF CONTENTS -->
 
